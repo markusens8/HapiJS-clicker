@@ -1,0 +1,1 @@
+Kā palaist? hmu
