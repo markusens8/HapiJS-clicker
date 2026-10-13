@@ -1,0 +1,31 @@
+body {
+	background-color: darkseagreen;
+	font-family: Verdana, sans-serif;
+}
+
+
+#card {
+	background-color: aquamarine;
+	color: navy;
+	width: 40%;
+	margin: 10% auto;
+	text-align: center;
+	border: solid white 0.5rem;
+}
+
+p {
+	font-size: 1.4rem;
+}
+
+ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+button {
+	background-color: midnightblue;
+	color: white;
+	font-size: 1rem;
+	padding: 0.5rem;
+	border-radius: 25%;
+}
